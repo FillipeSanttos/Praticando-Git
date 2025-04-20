@@ -7,4 +7,4 @@ public class PraticandoGit {
 
 //Dia 1 praticando Git
     //Criar repositorio, atualizar informacoes, criar tag, branch, merge, fazer push
-
+    //Modificação para criar o merge
