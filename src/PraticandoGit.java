@@ -10,5 +10,3 @@ public static void main (String[] args){
     //Modificação para criar o merge
 //Dia 2 praticando git
     //criacao de branch dia02, realizar merge
-    //Dia 02 praticando git
-    //Dia 02 praticando git amend
