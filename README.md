@@ -1,6 +1,6 @@
 
 # Praticando-Git
-Este repositório serve como treinamento para aprender/aperfeiçoar o uso das ferramentas Git e seus principais comandos, simulando um ambiente de trabalho diário.
+Este repositório serve como treinamento para aprender/aperfeiçoar o uso da ferramenta Git e seus principais comandos, simulando um ambiente de trabalho diário.
 
 
 # Funcionalidades do Projeto 
