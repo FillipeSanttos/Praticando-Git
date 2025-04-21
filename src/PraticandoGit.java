@@ -9,3 +9,4 @@ public static void main (String[] args){
     //Criar repositorio, atualizar informacoes, criar tag, branch, merge, fazer push
     //Modificação para criar o merge
 //Dia 2 praticando git
+    //criacao de branch dia02, realizar merge
