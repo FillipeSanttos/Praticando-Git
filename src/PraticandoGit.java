@@ -1,8 +1,9 @@
 public class PraticandoGit {
 
-public static void main (String[] args){
-    System.out.println("Hello World!");
-}
+
+    public static void main (String[] args){
+    System.out.println("Hello World!.");
+    }
 }
 
 //Dia 1 praticando Git
@@ -10,6 +11,7 @@ public static void main (String[] args){
     //Modificação para criar o merge
 //Dia 2 praticando git
     //criacao de branch dia02, realizar merge
-//Dua 03 praticando git
+//Dia 03 praticando git
     //Modificações para add e commit
     //Modificacao para branch, fazer merge
+//Dia 04 praticando git
