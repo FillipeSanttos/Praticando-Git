@@ -24,3 +24,5 @@ System.out.println("Hello World!!!!");
 //Dia 06 praticando git
     //atualização de informações
     //novo branch, fazer merge
+//Dia 07 praticando git
+    //atualizacao de informacoes
