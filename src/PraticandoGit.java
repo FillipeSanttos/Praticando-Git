@@ -26,3 +26,4 @@ System.out.println("Hello World!!!!");
     //novo branch, fazer merge
 //Dia 07 praticando git
     //atualizacao de informacoes
+    //novo branch, fazer merge, deletar branch dia anterior
