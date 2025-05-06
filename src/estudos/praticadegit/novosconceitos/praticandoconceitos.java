@@ -18,3 +18,5 @@ public class praticandoconceitos {
         System.out.println("Hello World");
     }
 }
+
+//Dia 08 treinando git
